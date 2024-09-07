@@ -1,0 +1,21 @@
+.Header{
+    width: 100%;
+    height: 56px;
+    background-color: darkblue;
+    display: flex;
+    justify-content: flex-end;
+}
+.Header ul{
+    display: flex;
+}
+.Header li{
+    line-height: 56px;
+    width: 150px;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: 900;
+    list-style: none;
+}
+.Header li:hover{
+    background-color: darkcyan;
+}

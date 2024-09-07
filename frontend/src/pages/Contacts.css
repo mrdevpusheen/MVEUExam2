@@ -1,0 +1,4 @@
+.Contacts{
+    width: 100%;
+    min-height: calc(100vh - 50px - 50px);
+}
